@@ -1,0 +1,8 @@
+user_registration_data = {
+    "first_name": "Martin",
+    "last_name": "Joel",
+    "password": "KillerTunes",
+    "email": "eliteben12@protonmail"
+}
+
+user_registration_json = json.dumps(user_registration_data)
